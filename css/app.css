@@ -89,3 +89,7 @@ ul,li,dl,dt,dd,i { list-style: none;font-style: normal; margin: 0; padding: 0;}
 .myAppImgNewsBlock .myAppImgNewsUser .myAppImgNewsIco { float: left; position: relative; width: 40px; border-radius: 50%; overflow: hidden;}
 .myAppImgNewsBlock .myAppImgNewsUser .myAppImgNewsIco img { width: 100%;}
 .myAppImgNewsBlock .myAppImgNewsUser .myAppImgNewsName { height: 40px; float: left; font-size: 16px; line-height: 40px; padding-left: 10px; color: #19bab3; font-weight: bold;}
+.rank{padding: 0 5px; background: #eee;}
+.mar10{margin: 10px 0;}
+.martop{margin-top: 20px;}
+.center{position: relative;left:2rem;}

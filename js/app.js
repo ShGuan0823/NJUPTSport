@@ -15,5 +15,8 @@
     var getWindowHeight = $(window).height(),
         myappLoginBg    = $('.myapp-login-bg');
     myappLoginBg.css('min-height',getWindowHeight + 'px');
+    $('#submit').click(function () {
+      alert("提交成功")
+    })
   });
 })(jQuery);
